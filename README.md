@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jessica-mafra
 - 👀 I’m interested in new connections and new ideas in this world of Code.
-- 🌱 I’m currently learning C# Language
+- 🌱 I’m currently learning .NetCore and .NetFramework 
 - 💞️ I’m looking to collaborate on new projects
 
 <!---
