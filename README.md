@@ -1,6 +1,7 @@
  Hi, I’m @Jessica-mafra be welcome :)
  I’m interested in new connections and new ideas in this world of Dev.
  I’m currently learning .NetCore and .NetFramework , and looking to collaborate on new projects.
+![e1b7b579a739551677fe5e1e6ce317f8](https://user-images.githubusercontent.com/119601801/227279729-0160b8fd-64b0-4944-8b75-dae37954fbdf.jpg)
 
 <!---
 Jessica-mafra/Jessica-mafra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
