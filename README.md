@@ -1,6 +1,6 @@
  Hi, I’m @Jessica-mafra be welcome :)
  I’m interested in new connections and new ideas in this world of Dev.
- I’m currently learning .NetCore and .NetFramework , and looking to collaborate on new projects.
+
 
 
  
